@@ -1,4 +1,4 @@
-var randomLoo = Math.floor(Math.random() 5)
+var randomLoo = Math.floor(Math.random() *5)
 
 var location1 = randomLoo;
 var location2 = location1 + 1;
